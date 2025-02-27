@@ -12,7 +12,7 @@ public class Recusion {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int number = 5;
+		int number = 6;
 		int result = recursion(number);
 		System.out.println("the result of "+number+"!"+" is = "+ result);
 		
